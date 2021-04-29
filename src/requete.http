@@ -1,0 +1,2 @@
+### exemple d'appel de l'API des cards POKEMON
+GET https://api.pokemontcg.io/v1/cards
